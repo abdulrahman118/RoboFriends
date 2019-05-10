@@ -9,6 +9,7 @@
     "react-scripts": "3.0.0",
     "tachyons": "^4.11.1"
   },
+  "homepage": "https://abdulrahman118.github.io/RoboFriends",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -30,7 +31,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://abdulrahman118.github.io/RoboFriends"
+    ]    
   }
 }
