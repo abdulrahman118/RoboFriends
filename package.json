@@ -13,7 +13,7 @@
     "redux-thunk": "^2.3.0",
     "tachyons": "^4.11.1"
   },
-  "homepage": "https://abdulrahman118.github.io/RoboFriends",
+  "homepage": "https://abdulrahman118.github.io/robofriends",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
